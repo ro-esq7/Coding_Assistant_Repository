@@ -22,12 +22,12 @@ Create or replace a markdown file called "assistant_draft.md" for this project. 
 
 ## Notes & New Prompts
 ### Notes
-- What you did well: You followed the prompt clearly.
-- What I had to clarify and adjust: 
-  * I should have asked you to save it to a clear path to my project folder.
-  * Needed to modify the document's formatting.
-  * Needed to modify the document's content since the assistant copied the information directly from my prompt, instead of converting it into short paragraph(s).
-  * Needed to add the secondary prompt since the assistant did not follow that part of the prompt.
+- What The Assistant Did Well: You followed the prompt clearly.
+- What I had to Clarify & Adjust: 
+  * I should have specified that the file needed to be saved to a clear path within my project folder. 
+  * I needed to update the document formatting. 
+  * I needed to revise the content because the assistant copied information directly from my prompt instead of turning it into short paragraph(s). 
+  * I needed to add the follow-up prompt because that part of the original prompt was not followed.
 
 ### New Prompt
 Under the Prompt that you pasted, can you add two more lines under it? The first line should be one sentence on what you did well: You followed the prompt clearly, with little modifications needed. The second line should be one or two things I had to clarify and adjust: The first is that I should have asked you to save it to a clear path to my project folder. The second is that I need to modify the document's formatting. Then add this prompt under it called | NOTES & NEW PROMPTS |
@@ -47,6 +47,6 @@ Below are the changes I made to Codex's assistant_draft.md file:
 2. Content
   - Refined the wording since it was copied from the prompt, which was a rough draft.
   - Added a few bullet points to make it easier to read.
-  - AModified the notes on what the assistant did well or needed improvement.
+  - Modified the "Notes" section on what the assistant did well or needed improvement.
 
 
