@@ -8,4 +8,5 @@ This repository contains my work for Assignment 1, where I:
 
 The purpose of this assignment is to display the onboarding process and highlight how **Codex** can be useful for development, while also showing the importance of human review in refining and validating the final result.
 
-**YouTube Link**: 
+**YouTube Link**: https://youtu.be/AsDjwFr0V_I
+
